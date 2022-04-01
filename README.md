@@ -1,1 +1,2 @@
-# Basic-DNS-query-sniffer-with-Scapy
+Que tengas un buen dia :) 
+Have a good day :)
